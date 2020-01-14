@@ -1,4 +1,4 @@
-# JS-Study
+# Study
 
 This repository is part of my studies.
 I separated in languages and exercises from some training sites.
